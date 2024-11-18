@@ -1069,7 +1069,6 @@ export default {
         "lotes_fisicos",
         "empleados",
         "reload",
-        "reloadtest",
     ],
 
     mounted() {
